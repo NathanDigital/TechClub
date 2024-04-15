@@ -12,7 +12,7 @@ TechClub members will likely be most interested in the 3D printers and laser cut
 
 Example projects would be 3D printing, electronics, Arduino, Raspberry Pi, Coding, [RoboWars](https://www.robowars.com.au/), AI, building drones and other RC craft, etc.  
 
-Have a look at the projects page (todo) to see what some of our members are working on.
+Have a look at the [projects page](https://github.com/NathanDigital/TechClub/tree/main/projects) to see what some of our members are working on.
 
 If you don't yet have a project of your own, have a look at our Recruiting page (todo) where we attempt to build a small class to take on a project together.
 
