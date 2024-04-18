@@ -1,6 +1,6 @@
 # TechClub
 
-![Makerspace Logo](images/makerspace/MKSP_Long Version.png "MakerSpace Logo")
+<img src="images/makerspace/MKSP_Long_Version.png" alt="Makerspace Logo" width="497" height="212"> 
 
 TechClub is a community tailored for individuals who possess a strong foundation in computer literacy and are actively engaged in their own tech-oriented projects. Our club serves as a collaborative space where members with skills and a passion for technology can come together to exchange ideas, share expertise, and collaborate on innovative projects.
 
