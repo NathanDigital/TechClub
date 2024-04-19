@@ -19,11 +19,15 @@ Don't have a project of your own, and are looking for something to do?
 
 ## When and Where?
 
+#### IRL
+
 TechClub meets in person on Wednesday nights at [MakerSpace](https://www.mncccmakerspace.org.au/), an amazing community facility operated by [Mid North Coast Community College](https://www.mnccc.edu.au/) at their Albert circuit premises in Port Macquarie. Other social clubs are already running at [MakerSpace](https://www.mncccmakerspace.org.au/), including Ceramics, Crochet, Table Top Games and Upcycled sewing. TechClub joins this existing framework.
 
 You must be a [member of MakerSpace](https://www.mncccmakerspace.org.au/membership) to attend. This costs $20/month for adults and $15 for concession. There are a limited number of no cost “Community Memberships” available for eligible disadvantaged community members, please enquire at the [college](https://www.mnccc.edu.au/).  
 
-We chat and collaborate online at any time via [Discussions](https://github.com/NathanDigital/TechClub/discussions) or the [wiki](https://github.com/NathanDigital/TechClub/wiki).  You will need to have a [GitHub](https://github.com) account to contribute to these online resources. The [GitHub app](https://github.com/mobile) can chat on your mobile device and receive notifications when new comments are posted, just like any other chat app. 
+#### Online
+
+We chat and collaborate online at any time via [Discussions](https://github.com/NathanDigital/TechClub/discussions) or the [wiki](https://github.com/NathanDigital/TechClub/wiki).  You will need to have a [GitHub](https://github.com) account to contribute to these online resources. Please read our [Working with Github](https://github.com/NathanDigital/TechClub/wiki/Working-with-GitHub) for a brief introduction and guide to using the platform. 
 
 ## Facilities?
 
