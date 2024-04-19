@@ -27,7 +27,7 @@ You must be a [member of MakerSpace](https://www.mncccmakerspace.org.au/membersh
 
 #### Online
 
-We chat and collaborate online at any time via [Discussions](https://github.com/NathanDigital/TechClub/discussions) or the [wiki](https://github.com/NathanDigital/TechClub/wiki).  You will need to have a [GitHub](https://github.com) account to contribute to these online resources. Please read our [Working with Github](https://github.com/NathanDigital/TechClub/wiki/Working-with-GitHub) for a brief introduction and guide to using the platform. 
+We chat and collaborate online at any time via [Discussions](https://github.com/NathanDigital/TechClub/discussions) or the [wiki](https://github.com/NathanDigital/TechClub/wiki).  You will need to have a [GitHub](https://github.com) account to contribute to these online resources. Please read our [Working with GitHub](https://github.com/NathanDigital/TechClub/wiki/Working-with-GitHub) for a brief introduction and guide to using the platform. 
 
 ## Facilities?
 
