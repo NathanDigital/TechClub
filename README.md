@@ -15,7 +15,7 @@ Have a look at the [projects page](https://github.com/NathanDigital/TechClub/wik
 #### Don't have a project of your own, and are looking for something to do? 
 * [ToDo Page](https://github.com/NathanDigital/TechClub/wiki/ToDo) has a list of things to help TechClub and Makerspace
 * [Suggestions page](https://github.com/NathanDigital/TechClub/wiki/Suggestions) is a list of good starter projects for those who want to play with Tech
-* [Recruiting page](https://github.com/NathanDigital/TechClub/wiki/Recruiting) where we attempt to build a small group to take on a project together.
+* [Group Projects page](https://github.com/NathanDigital/TechClub/wiki/Group-Projects) where we attempt to build a small group to take on a project together.
 
 ## When and Where?
 
