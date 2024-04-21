@@ -10,7 +10,7 @@ Please note that TechClub is a non instructional support group and cannot cater 
 
 Example projects would be 3D printing, electronics, Arduino, Raspberry Pi, Coding, [RoboWars](https://www.robowars.com.au/), AI, building drones and other RC craft, etc.  
 
-Have a look at the [projects page](https://github.com/NathanDigital/TechClub/wiki/Projects) to see what some of our members are working on.
+Have a look at the [Show and tell](https://github.com/NathanDigital/TechClub/discussions/categories/show-and-tell) to see what some of our members are working on.
 
 #### Don't have a project of your own, and are looking for something to do? 
 * [ToDo Page](https://github.com/NathanDigital/TechClub/wiki/ToDo) has a list of things to help TechClub and Makerspace
